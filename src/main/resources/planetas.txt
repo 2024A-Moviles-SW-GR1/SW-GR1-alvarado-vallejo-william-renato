@@ -1,0 +1,5 @@
+t7byPbPFY7,Cobra Kai,Karate,false,5,2018-06-06,AAsnQGpaXI
+3LoKyA5TlW,Game of Thrones,Medieval,true,6,2015-06-06,Qlxx2zQvt5
+01we7VRMyQ,Stranger Things,Suspenso,false,4,2012-02-02,AAsnQGpaXI
+ByJU0c85ls,The Boys,Accion,false,3,2017-09-09,OqsiDvlEhh
+mruq8WmZlk,tierra,planeta rocoso,true,2,1450-05-08,uy0685N0xt
